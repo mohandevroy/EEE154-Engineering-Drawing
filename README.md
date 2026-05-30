@@ -1,1 +1,3 @@
 # EEE154-Engineering-Drawing Using Oneshape
+This repository contains a collection of 10 Onshape 3D CAD models ranging from simple electronic components like EEE154 and practice slabs to mechanical parts like a mounting plate and enclosure boxes. It also includes beginner 2D sketches (circle and octagon profiles) that demonstrate foundational CAD skills. More advanced models include a LEGO brick, dice, and a two-layer box, each built using features like extrude, pattern, and pocket cuts. The most complex model is the wine glass, created using revolve and custom construction planes — showcasing the full progression from basic to advanced CAD design in Onshape.
+
